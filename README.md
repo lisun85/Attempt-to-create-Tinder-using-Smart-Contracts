@@ -11,6 +11,6 @@ The game is the exact same as Tinder. Register an account, swipe left for "not i
 I will attempt to add a new feature, where a matchmaker freind (with your permission) can volunteerly style your photos, write your bios and swipe for you.
 
 
-Front-end and more features is yet to be developed.
+Front-end + additional features will be developed.
 
 
