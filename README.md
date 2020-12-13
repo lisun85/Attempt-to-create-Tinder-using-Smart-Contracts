@@ -1,6 +1,6 @@
 # 💕 Tinder-Attempt   
 
- Since I met my wife throught Tinder (yes, really!). This is my attempt to build the Tinder dating app using smart contracts.
+ Since I met my wife throught Tinder (yes, really). This is my attempt to build the Tinder dating app using smart contracts.
  
  ## 🔥 The Game 
 
